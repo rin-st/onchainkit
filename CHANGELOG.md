@@ -1,12 +1,19 @@
 # Changelog
 
+## 0.31.3
+
+### Patch Changes
+
+- a417d30: - **chore**: Add Swap settings SVG. By @cpcramer #1187
+  - **chore**: Add Swap Settings Slippage Description. By @cpcramer #1192
+
 ## 0.31.2
 
 ### Patch Changes
 
-  - **feat**: added connect wallet functionality to Swap component for disconnected users. By @abcrane123 #1173
-  - **fix**: added logic to refetch balances and clear inputs after Swap succeeds. By @0xAlec #1089
-  - **fix**: adjusted Swap component style to prevent UI shifting. By @abcrane123 #1184
+- **feat**: added connect wallet functionality to Swap component for disconnected users. By @abcrane123 #1173
+- **fix**: added logic to refetch balances and clear inputs after Swap succeeds. By @0xAlec #1089
+- **fix**: adjusted Swap component style to prevent UI shifting. By @abcrane123 #1184
 
 ## 0.31.1
 
